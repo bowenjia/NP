@@ -1,0 +1,12 @@
+secrets/
+cache/
+.env
+.env.*
+*.key
+*.crt
+*.csr
+*.pem
+node_modules/
+.git/
+.github/
+*.md
